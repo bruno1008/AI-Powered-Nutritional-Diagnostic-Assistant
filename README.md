@@ -1,1 +1,3 @@
 # Virtual-Nutrition-Assistant-Software
+
+Developed a virtual assistant using machine learning techniques, built upon the ChatGPT-3.5-turbo model for nutritional diagnosis support. The software utilises a manually constructed database of diseases, symptoms, and nutritional goals, and leverages speech recognition to record patient and physician interactions. It identifies potential diseases or nutritional objectives by matching patient inputs to the database and applying a softmax algorithm to deliver the most probable diagnosis. The tool is designed for use by medical professionals or nutritionists, offering a draft diagnostic based on probabilistic analysis.
