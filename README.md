@@ -30,8 +30,8 @@ Ensure you have the latest version of the `openai` library:
 
 To start the application, execute:
 
-```python
-python main.py
+```jupyter
+python SpeechRecog_Test1.ipynb
 ```
 
 You'll be greeted with a "Welcome to Nutri!" message, followed by a prompt from the Nutritionist.
